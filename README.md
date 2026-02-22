@@ -48,3 +48,18 @@ To understand New Zealand's tourism recovery after Covid-19 and forecast regiona
 - MBIE TECT dataset: https://www.mbie.govt.nz/?utm_source=chatgpt.com
 - Statsmodels SARIMAX Documentation
 - Pmdarima Auto-ARIMA
+
+
+## 📊 Key Visual Outputs
+
+### NZ Tourism Spend Recovery Index (2019 = 100)
+![Recovery Index](images/recovery_index.png)
+
+### Regional YoY Growth Heatmap
+![Regional YoY Heatmap](images/yoy_heatmap.png)
+
+### Auckland – 12-Month Forecast
+![Auckland Forecast](images/auckland_forecast.png)
+
+### Holdout Forecast vs Actual
+![Holdout vs Actual](images/holdout_vs_actual.png)
