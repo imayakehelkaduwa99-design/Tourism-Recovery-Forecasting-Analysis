@@ -52,14 +52,7 @@ To understand New Zealand's tourism recovery after Covid-19 and forecast regiona
 
 ## 📊 Key Visual Outputs
 
-### NZ Tourism Spend Recovery Index (2019 = 100)
-![NZ Tourism Spend Recovery Index](images/NZ Tourism Spend Recovery Index.png)
-
-### Regional YoY Growth Heatmap
-![Regional YoY growth - last 12 months (%)](images/ Regional YoY growth - last 12 months (%).png)
-
-### Auckland – 12-Month Forecast
-![Auckland 12-month lookout](images/Auckland 12-month lookout.png)
-
 ### Holdout Forecast vs Actual
-![Auckland - Holdout Forecast vs Actual](images/Auckland - Holdout Forecast vs Actual.png)
+![Auckland - Holdout Forecast vs Actual](images/ Auckland - Holdout Forecast vs Actual.png)
+
+
