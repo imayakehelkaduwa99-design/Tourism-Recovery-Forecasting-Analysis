@@ -53,7 +53,7 @@ To understand New Zealand's tourism recovery after Covid-19 and forecast regiona
 ## 📊 Key Visual Outputs
 
 ### Holdout Forecast vs Actual
-![Auckland Holdout Forecast vs Actual](images/auckland_holdout_forecast_vs_actual.png)
+![Auckland - Holdout Forecast vs Actual](auckland_holdout_forecast_vs_actual.png)
 
 
 
