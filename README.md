@@ -184,7 +184,7 @@ Make sure Region-series.xlsx is in the same directory.
   https://www.mbie.govt.nz
 
 
-**Author: Imaya Kehelkaduwa (Analytics and Data Engineering Portfolio)**
+**Author- Imaya Kehelkaduwa (Analytics and Data Engineering Portfolio)**
 
 
 
